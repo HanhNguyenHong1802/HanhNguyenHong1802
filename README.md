@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HanhNguyenHong1802
-- 👀 I’m interested in reading book, watching youtube, coding
+- 👀 I’m interested in reading book, watching youtube, coding, especially something about Computer Vision and Front-end Development
 - 🌱 My major is computer engineering - I'm a graduated student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/Hanhnguyee.20
